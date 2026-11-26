@@ -2,7 +2,7 @@
   "name": "phantom-plus",
   "displayName": "PhantomPlus",
   "description": "Tema oscuro traslucido de alta costura: vidrio ahumado con letras en dorado, plata, esmeralda y rubi para Visual Studio Code",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "MartinAlejandroOviedo",
   "license": "MIT",
   "engines": {
@@ -21,6 +21,10 @@
     "gothic",
     "fashion"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nutoysaudio-code/PhantomPlus.git"
+  },
   "galleryBanner": {
     "color": "#0B0910",
     "theme": "dark"
@@ -35,10 +39,60 @@
     ],
     "configurationDefaults": {
       "editor.semanticHighlighting.enabled": true
-    }
+    },
+    "configuration": {
+      "title": "PhantomPlus",
+      "properties": {
+        "phantomplus.alpha": {
+          "type": "number",
+          "default": 240,
+          "minimum": 1,
+          "maximum": 255,
+          "description": "Opacidad real de la ventana en Windows. 1 = casi invisible, 255 = opaca. Se aplica solo con el tema PhantomPlus activo."
+        },
+        "phantomplus.step": {
+          "type": "number",
+          "default": 5,
+          "minimum": 1,
+          "maximum": 255,
+          "description": "Cuanto cambia el alfa por cada uso de los comandos de transparencia."
+        }
+      }
+    },
+    "commands": [
+      {
+        "command": "phantomplus.transparency.increase",
+        "title": "PhantomPlus: Aumentar transparencia de la ventana"
+      },
+      {
+        "command": "phantomplus.transparency.decrease",
+        "title": "PhantomPlus: Disminuir transparencia de la ventana"
+      },
+      {
+        "command": "phantomplus.transparency.opaque",
+        "title": "PhantomPlus: Ventana opaca (255)"
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "phantomplus.transparency.increase",
+        "key": "ctrl+alt+shift+z"
+      },
+      {
+        "command": "phantomplus.transparency.decrease",
+        "key": "ctrl+alt+shift+c"
+      }
+    ]
   },
   "scripts": {
     "validate": "node scripts/validate-theme.mjs",
-    "preview": "node scripts/preview.mjs"
-  }
+    "preview": "node scripts/preview.mjs",
+    "icon": "node scripts/render-icon.mjs",
+    "check:ext": "node --check src/extension.js"
+  },
+  "icon": "icons/icon.png",
+  "main": "./src/extension.js",
+  "activationEvents": [
+    "onStartupFinished"
+  ]
 }

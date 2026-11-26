@@ -4,7 +4,19 @@ node_modules/
 
 # Salidas generadas
 assets/preview.html
+assets/icon-sheet.html
 assets/vscode-check.png
+assets/icon-in-vscode.png
+assets/alpha-over-magenta.png
+
+# Experimentos locales de bordes/overlay, no incluidos en 0.2.0
+assets/border-*.png
+assets/border-lab.html
+assets/overlay-*.png
+assets/electric-border.css
+assets/electric-border.css.pp-pre.bak
+scripts/workbench-border.mjs
+tools/
 
 # Sistema
 .DS_Store

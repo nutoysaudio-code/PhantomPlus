@@ -3,6 +3,17 @@
 .gitignore
 scripts/**
 assets/preview.html
+assets/icon-sheet.html
 assets/vscode-check.png
+assets/icon-in-vscode.png
+assets/alpha-over-magenta.png
+assets/concepts/**
+assets/icon.svg
+assets/border-*.png
+assets/border-lab.html
+assets/overlay-*.png
+assets/electric-border.css
+assets/electric-border.css.pp-pre.bak
+tools/**
 node_modules/**
 *.vsix

@@ -1,0 +1,11 @@
+# Dependencias locales y empaquetado
+node_modules/
+*.vsix
+
+# Salidas generadas
+assets/preview.html
+assets/vscode-check.png
+
+# Sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,44 @@
+{
+  "name": "phantom-plus",
+  "displayName": "PhantomPlus",
+  "description": "Tema oscuro traslucido de alta costura: vidrio ahumado con letras en dorado, plata, esmeralda y rubi para Visual Studio Code",
+  "version": "0.1.0",
+  "publisher": "MartinAlejandroOviedo",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "translucent",
+    "gold",
+    "emerald",
+    "ruby",
+    "gothic",
+    "fashion"
+  ],
+  "galleryBanner": {
+    "color": "#0B0910",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "PhantomPlus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/phantom-plus-color-theme.json"
+      }
+    ],
+    "configurationDefaults": {
+      "editor.semanticHighlighting.enabled": true
+    }
+  },
+  "scripts": {
+    "validate": "node scripts/validate-theme.mjs",
+    "preview": "node scripts/preview.mjs"
+  }
+}

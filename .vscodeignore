@@ -1,0 +1,8 @@
+.vscode/**
+.github/**
+.gitignore
+scripts/**
+assets/preview.html
+assets/vscode-check.png
+node_modules/**
+*.vsix

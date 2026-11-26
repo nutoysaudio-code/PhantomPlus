@@ -1,0 +1,265 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="840" viewBox="0 0 1600 840"><rect width="1600" height="840" fill="#f7f7f4"/><text x="60" y="78" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="40" font-weight="700" fill="#161616">PhantomPlus - conceptos de icono</text><text x="60" y="116" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#6b6b6b">Concepts for review — pick a direction (or tell me what you like in each).</text><rect x="60" y="150" width="474.667" height="630" rx="18" fill="#fff" stroke="#161616" stroke-width="2"/><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="90" y="190" width="414.667" height="300" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="c0-goldA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F4DEA8"/>
+      <stop offset="0.55" stop-color="#E8C87E"/>
+      <stop offset="1" stop-color="#C89A3F"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="244" height="244" rx="54" fill="#0B0910"/>
+  <rect x="7.5" y="7.5" width="241" height="241" rx="52.5" fill="none" stroke="#C9CED8" stroke-opacity="0.16" stroke-width="1.5"/>
+  <path d="M104 206 V58 H142 A42 42 0 0 1 142 142 H104" fill="none" stroke="#CFD4DF" stroke-opacity="0.22" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" transform="translate(14,-12)"/>
+  <path d="M96 208 V62 H134 A43 43 0 0 1 134 148 H96" fill="none" stroke="url(#c0-goldA)" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(202 198)">
+    <path d="M0 -15 13 -4 8 12H-8L-13 -4Z" fill="#C9465E"/>
+    <path d="M0 -15 13 -4 0 1 -13 -4Z" fill="#E8738A"/>
+    <path d="M0 1 13 -4 8 12Z" fill="#A83348"/>
+    <path d="M0 1 -13 -4 -8 12Z" fill="#8E2233"/>
+  </g>
+</svg>
+</g><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="90" y="516" width="64" height="64" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="s064-goldA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F4DEA8"/>
+      <stop offset="0.55" stop-color="#E8C87E"/>
+      <stop offset="1" stop-color="#C89A3F"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="244" height="244" rx="54" fill="#0B0910"/>
+  <rect x="7.5" y="7.5" width="241" height="241" rx="52.5" fill="none" stroke="#C9CED8" stroke-opacity="0.16" stroke-width="1.5"/>
+  <path d="M104 206 V58 H142 A42 42 0 0 1 142 142 H104" fill="none" stroke="#CFD4DF" stroke-opacity="0.22" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" transform="translate(14,-12)"/>
+  <path d="M96 208 V62 H134 A43 43 0 0 1 134 148 H96" fill="none" stroke="url(#s064-goldA)" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(202 198)">
+    <path d="M0 -15 13 -4 8 12H-8L-13 -4Z" fill="#C9465E"/>
+    <path d="M0 -15 13 -4 0 1 -13 -4Z" fill="#E8738A"/>
+    <path d="M0 1 13 -4 8 12Z" fill="#A83348"/>
+    <path d="M0 1 -13 -4 -8 12Z" fill="#8E2233"/>
+  </g>
+</svg>
+</g><text x="122" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">64px</text><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="180" y="548" width="32" height="32" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="s032-goldA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F4DEA8"/>
+      <stop offset="0.55" stop-color="#E8C87E"/>
+      <stop offset="1" stop-color="#C89A3F"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="244" height="244" rx="54" fill="#0B0910"/>
+  <rect x="7.5" y="7.5" width="241" height="241" rx="52.5" fill="none" stroke="#C9CED8" stroke-opacity="0.16" stroke-width="1.5"/>
+  <path d="M104 206 V58 H142 A42 42 0 0 1 142 142 H104" fill="none" stroke="#CFD4DF" stroke-opacity="0.22" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" transform="translate(14,-12)"/>
+  <path d="M96 208 V62 H134 A43 43 0 0 1 134 148 H96" fill="none" stroke="url(#s032-goldA)" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(202 198)">
+    <path d="M0 -15 13 -4 8 12H-8L-13 -4Z" fill="#C9465E"/>
+    <path d="M0 -15 13 -4 0 1 -13 -4Z" fill="#E8738A"/>
+    <path d="M0 1 13 -4 8 12Z" fill="#A83348"/>
+    <path d="M0 1 -13 -4 -8 12Z" fill="#8E2233"/>
+  </g>
+</svg>
+</g><text x="196" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">32px</text><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="238" y="564" width="16" height="16" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="s016-goldA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F4DEA8"/>
+      <stop offset="0.55" stop-color="#E8C87E"/>
+      <stop offset="1" stop-color="#C89A3F"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="244" height="244" rx="54" fill="#0B0910"/>
+  <rect x="7.5" y="7.5" width="241" height="241" rx="52.5" fill="none" stroke="#C9CED8" stroke-opacity="0.16" stroke-width="1.5"/>
+  <path d="M104 206 V58 H142 A42 42 0 0 1 142 142 H104" fill="none" stroke="#CFD4DF" stroke-opacity="0.22" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" transform="translate(14,-12)"/>
+  <path d="M96 208 V62 H134 A43 43 0 0 1 134 148 H96" fill="none" stroke="url(#s016-goldA)" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(202 198)">
+    <path d="M0 -15 13 -4 8 12H-8L-13 -4Z" fill="#C9465E"/>
+    <path d="M0 -15 13 -4 0 1 -13 -4Z" fill="#E8738A"/>
+    <path d="M0 1 13 -4 8 12Z" fill="#A83348"/>
+    <path d="M0 1 -13 -4 -8 12Z" fill="#8E2233"/>
+  </g>
+</svg>
+</g><text x="246" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">16px</text><text x="90.0" y="636" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#161616">A · Eco</text><text x="90.0" y="664" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#161616" letter-spacing="1.5">RECOMMENDED</text><text x="90.0" y="698" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">Monograma P en oro con un eco fantasma</text><text x="90.0" y="724" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">plateado.</text><rect x="562.667" y="150" width="474.667" height="630" rx="18" fill="#fff" stroke="#e4e4e0" stroke-width="1"/><g>﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="592.667" y="190" width="414.667" height="300" preserveAspectRatio="xMidYMid meet">
+  <title>PhantomPlus - Talla</title>
+  <defs>
+    <linearGradient id="c1-emeraldB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8BE7C2"/>
+      <stop offset="0.5" stop-color="#5FD3A4"/>
+      <stop offset="1" stop-color="#2F9E77"/>
+    </linearGradient>
+    <linearGradient id="c1-goldB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F4DEA8"/>
+      <stop offset="0.6" stop-color="#E8C87E"/>
+      <stop offset="1" stop-color="#C89A3F"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="244" height="244" rx="54" fill="#0B0910"/>
+  <rect x="7.5" y="7.5" width="241" height="241" rx="52.5" fill="none" stroke="#C9CED8" stroke-opacity="0.16" stroke-width="1.5"/>
+  <path d="M96 208 V74" fill="none" stroke="url(#c1-goldB)" stroke-width="22" stroke-linecap="round"/>
+  <path d="M96 62 H148 L176 88 V120 L148 146 H96" fill="none" stroke="url(#c1-emeraldB)" stroke-width="18" stroke-linejoin="miter"/>
+  <path d="M96 62 H148 L176 88" fill="none" stroke="#8BE7C2" stroke-opacity="0.55" stroke-width="6"/>
+  <g transform="translate(200 200)">
+    <path d="M0 -13 11 -4 6 11H-6L-11 -4Z" fill="#C9465E"/>
+    <path d="M0 -13 11 -4 0 1 -11 -4Z" fill="#E8738A"/>
+    <path d="M0 1 11 -4 6 11Z" fill="#A83348"/>
+    <path d="M0 1 -11 -4 -6 11Z" fill="#8E2233"/>
+  </g>
+</svg>
+</g><g>﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="592.667" y="516" width="64" height="64" preserveAspectRatio="xMidYMid meet">
+  <title>PhantomPlus - Talla</title>
+  <defs>
+    <linearGradient id="s164-emeraldB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8BE7C2"/>
+      <stop offset="0.5" stop-color="#5FD3A4"/>
+      <stop offset="1" stop-color="#2F9E77"/>
+    </linearGradient>
+    <linearGradient id="s164-goldB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F4DEA8"/>
+      <stop offset="0.6" stop-color="#E8C87E"/>
+      <stop offset="1" stop-color="#C89A3F"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="244" height="244" rx="54" fill="#0B0910"/>
+  <rect x="7.5" y="7.5" width="241" height="241" rx="52.5" fill="none" stroke="#C9CED8" stroke-opacity="0.16" stroke-width="1.5"/>
+  <path d="M96 208 V74" fill="none" stroke="url(#s164-goldB)" stroke-width="22" stroke-linecap="round"/>
+  <path d="M96 62 H148 L176 88 V120 L148 146 H96" fill="none" stroke="url(#s164-emeraldB)" stroke-width="18" stroke-linejoin="miter"/>
+  <path d="M96 62 H148 L176 88" fill="none" stroke="#8BE7C2" stroke-opacity="0.55" stroke-width="6"/>
+  <g transform="translate(200 200)">
+    <path d="M0 -13 11 -4 6 11H-6L-11 -4Z" fill="#C9465E"/>
+    <path d="M0 -13 11 -4 0 1 -11 -4Z" fill="#E8738A"/>
+    <path d="M0 1 11 -4 6 11Z" fill="#A83348"/>
+    <path d="M0 1 -11 -4 -6 11Z" fill="#8E2233"/>
+  </g>
+</svg>
+</g><text x="624.667" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">64px</text><g>﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="682.667" y="548" width="32" height="32" preserveAspectRatio="xMidYMid meet">
+  <title>PhantomPlus - Talla</title>
+  <defs>
+    <linearGradient id="s132-emeraldB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8BE7C2"/>
+      <stop offset="0.5" stop-color="#5FD3A4"/>
+      <stop offset="1" stop-color="#2F9E77"/>
+    </linearGradient>
+    <linearGradient id="s132-goldB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F4DEA8"/>
+      <stop offset="0.6" stop-color="#E8C87E"/>
+      <stop offset="1" stop-color="#C89A3F"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="244" height="244" rx="54" fill="#0B0910"/>
+  <rect x="7.5" y="7.5" width="241" height="241" rx="52.5" fill="none" stroke="#C9CED8" stroke-opacity="0.16" stroke-width="1.5"/>
+  <path d="M96 208 V74" fill="none" stroke="url(#s132-goldB)" stroke-width="22" stroke-linecap="round"/>
+  <path d="M96 62 H148 L176 88 V120 L148 146 H96" fill="none" stroke="url(#s132-emeraldB)" stroke-width="18" stroke-linejoin="miter"/>
+  <path d="M96 62 H148 L176 88" fill="none" stroke="#8BE7C2" stroke-opacity="0.55" stroke-width="6"/>
+  <g transform="translate(200 200)">
+    <path d="M0 -13 11 -4 6 11H-6L-11 -4Z" fill="#C9465E"/>
+    <path d="M0 -13 11 -4 0 1 -11 -4Z" fill="#E8738A"/>
+    <path d="M0 1 11 -4 6 11Z" fill="#A83348"/>
+    <path d="M0 1 -11 -4 -6 11Z" fill="#8E2233"/>
+  </g>
+</svg>
+</g><text x="698.667" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">32px</text><g>﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="740.667" y="564" width="16" height="16" preserveAspectRatio="xMidYMid meet">
+  <title>PhantomPlus - Talla</title>
+  <defs>
+    <linearGradient id="s116-emeraldB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8BE7C2"/>
+      <stop offset="0.5" stop-color="#5FD3A4"/>
+      <stop offset="1" stop-color="#2F9E77"/>
+    </linearGradient>
+    <linearGradient id="s116-goldB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F4DEA8"/>
+      <stop offset="0.6" stop-color="#E8C87E"/>
+      <stop offset="1" stop-color="#C89A3F"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="244" height="244" rx="54" fill="#0B0910"/>
+  <rect x="7.5" y="7.5" width="241" height="241" rx="52.5" fill="none" stroke="#C9CED8" stroke-opacity="0.16" stroke-width="1.5"/>
+  <path d="M96 208 V74" fill="none" stroke="url(#s116-goldB)" stroke-width="22" stroke-linecap="round"/>
+  <path d="M96 62 H148 L176 88 V120 L148 146 H96" fill="none" stroke="url(#s116-emeraldB)" stroke-width="18" stroke-linejoin="miter"/>
+  <path d="M96 62 H148 L176 88" fill="none" stroke="#8BE7C2" stroke-opacity="0.55" stroke-width="6"/>
+  <g transform="translate(200 200)">
+    <path d="M0 -13 11 -4 6 11H-6L-11 -4Z" fill="#C9465E"/>
+    <path d="M0 -13 11 -4 0 1 -11 -4Z" fill="#E8738A"/>
+    <path d="M0 1 11 -4 6 11Z" fill="#A83348"/>
+    <path d="M0 1 -11 -4 -6 11Z" fill="#8E2233"/>
+  </g>
+</svg>
+</g><text x="748.667" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">16px</text><text x="592.6666666666667" y="636" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#161616">B · Talla</text><text x="592.6666666666667" y="670" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">P de talla joya: bowl octogonal en</text><text x="592.6666666666667" y="696" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">esmeralda.</text><rect x="1065.33" y="150" width="474.667" height="630" rx="18" fill="#fff" stroke="#e4e4e0" stroke-width="1"/><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1095.33" y="190" width="414.667" height="300" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="c2-glassC" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E7EAF2"/>
+      <stop offset="0.45" stop-color="#C3C9D6"/>
+      <stop offset="1" stop-color="#8B8499"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="244" height="244" rx="54" fill="#0B0910"/>
+  <rect x="7.5" y="7.5" width="241" height="241" rx="52.5" fill="none" stroke="#C9CED8" stroke-opacity="0.16" stroke-width="1.5"/>
+  <path fill-rule="evenodd" fill="url(#c2-glassC)"
+        d="M128 30 180 66 180 190 128 226 76 190 76 66Z
+           M104 78 H136 A34 34 0 0 1 136 146 H118 V184 H104Z
+           M118 92 H136 A20 20 0 0 1 136 132 H118Z"/>
+  <path d="M76 66 128 30 180 66" fill="none" stroke="#E8C87E" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M128 30 128 226" stroke="#0B0910" stroke-opacity="0.18" stroke-width="3"/>
+  <g transform="translate(196 202)">
+    <path d="M0 -12 10 -3 6 10H-6L-10 -3Z" fill="#F2788D"/>
+    <path d="M0 -12 10 -3 0 1 -10 -3Z" fill="#FF9AAB"/>
+  </g>
+</svg>
+</g><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1095.33" y="516" width="64" height="64" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="s264-glassC" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E7EAF2"/>
+      <stop offset="0.45" stop-color="#C3C9D6"/>
+      <stop offset="1" stop-color="#8B8499"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="244" height="244" rx="54" fill="#0B0910"/>
+  <rect x="7.5" y="7.5" width="241" height="241" rx="52.5" fill="none" stroke="#C9CED8" stroke-opacity="0.16" stroke-width="1.5"/>
+  <path fill-rule="evenodd" fill="url(#s264-glassC)"
+        d="M128 30 180 66 180 190 128 226 76 190 76 66Z
+           M104 78 H136 A34 34 0 0 1 136 146 H118 V184 H104Z
+           M118 92 H136 A20 20 0 0 1 136 132 H118Z"/>
+  <path d="M76 66 128 30 180 66" fill="none" stroke="#E8C87E" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M128 30 128 226" stroke="#0B0910" stroke-opacity="0.18" stroke-width="3"/>
+  <g transform="translate(196 202)">
+    <path d="M0 -12 10 -3 6 10H-6L-10 -3Z" fill="#F2788D"/>
+    <path d="M0 -12 10 -3 0 1 -10 -3Z" fill="#FF9AAB"/>
+  </g>
+</svg>
+</g><text x="1127.33" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">64px</text><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1185.33" y="548" width="32" height="32" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="s232-glassC" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E7EAF2"/>
+      <stop offset="0.45" stop-color="#C3C9D6"/>
+      <stop offset="1" stop-color="#8B8499"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="244" height="244" rx="54" fill="#0B0910"/>
+  <rect x="7.5" y="7.5" width="241" height="241" rx="52.5" fill="none" stroke="#C9CED8" stroke-opacity="0.16" stroke-width="1.5"/>
+  <path fill-rule="evenodd" fill="url(#s232-glassC)"
+        d="M128 30 180 66 180 190 128 226 76 190 76 66Z
+           M104 78 H136 A34 34 0 0 1 136 146 H118 V184 H104Z
+           M118 92 H136 A20 20 0 0 1 136 132 H118Z"/>
+  <path d="M76 66 128 30 180 66" fill="none" stroke="#E8C87E" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M128 30 128 226" stroke="#0B0910" stroke-opacity="0.18" stroke-width="3"/>
+  <g transform="translate(196 202)">
+    <path d="M0 -12 10 -3 6 10H-6L-10 -3Z" fill="#F2788D"/>
+    <path d="M0 -12 10 -3 0 1 -10 -3Z" fill="#FF9AAB"/>
+  </g>
+</svg>
+</g><text x="1201.33" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">32px</text><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1243.33" y="564" width="16" height="16" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="s216-glassC" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E7EAF2"/>
+      <stop offset="0.45" stop-color="#C3C9D6"/>
+      <stop offset="1" stop-color="#8B8499"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="244" height="244" rx="54" fill="#0B0910"/>
+  <rect x="7.5" y="7.5" width="241" height="241" rx="52.5" fill="none" stroke="#C9CED8" stroke-opacity="0.16" stroke-width="1.5"/>
+  <path fill-rule="evenodd" fill="url(#s216-glassC)"
+        d="M128 30 180 66 180 190 128 226 76 190 76 66Z
+           M104 78 H136 A34 34 0 0 1 136 146 H118 V184 H104Z
+           M118 92 H136 A20 20 0 0 1 136 132 H118Z"/>
+  <path d="M76 66 128 30 180 66" fill="none" stroke="#E8C87E" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M128 30 128 226" stroke="#0B0910" stroke-opacity="0.18" stroke-width="3"/>
+  <g transform="translate(196 202)">
+    <path d="M0 -12 10 -3 6 10H-6L-10 -3Z" fill="#F2788D"/>
+    <path d="M0 -12 10 -3 0 1 -10 -3Z" fill="#FF9AAB"/>
+  </g>
+</svg>
+</g><text x="1251.33" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">16px</text><text x="1095.3333333333335" y="636" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#161616">C · Espejo</text><text x="1095.3333333333335" y="670" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">Fragmento de espejo ahumado con la P en</text><text x="1095.3333333333335" y="696" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">negativo.</text></svg>

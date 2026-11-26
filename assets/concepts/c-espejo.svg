@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <linearGradient id="glassC" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E7EAF2"/>
+      <stop offset="0.45" stop-color="#C3C9D6"/>
+      <stop offset="1" stop-color="#8B8499"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="244" height="244" rx="54" fill="#0B0910"/>
+  <rect x="7.5" y="7.5" width="241" height="241" rx="52.5" fill="none" stroke="#C9CED8" stroke-opacity="0.16" stroke-width="1.5"/>
+  <path fill-rule="evenodd" fill="url(#glassC)"
+        d="M128 30 180 66 180 190 128 226 76 190 76 66Z
+           M104 78 H136 A34 34 0 0 1 136 146 H118 V184 H104Z
+           M118 92 H136 A20 20 0 0 1 136 132 H118Z"/>
+  <path d="M76 66 128 30 180 66" fill="none" stroke="#E8C87E" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M128 30 128 226" stroke="#0B0910" stroke-opacity="0.18" stroke-width="3"/>
+  <g transform="translate(196 202)">
+    <path d="M0 -12 10 -3 6 10H-6L-10 -3Z" fill="#F2788D"/>
+    <path d="M0 -12 10 -3 0 1 -10 -3Z" fill="#FF9AAB"/>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>PhantomPlus - Talla</title>
+  <defs>
+    <linearGradient id="emeraldB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8BE7C2"/>
+      <stop offset="0.5" stop-color="#5FD3A4"/>
+      <stop offset="1" stop-color="#2F9E77"/>
+    </linearGradient>
+    <linearGradient id="goldB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F4DEA8"/>
+      <stop offset="0.6" stop-color="#E8C87E"/>
+      <stop offset="1" stop-color="#C89A3F"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="244" height="244" rx="54" fill="#0B0910"/>
+  <rect x="7.5" y="7.5" width="241" height="241" rx="52.5" fill="none" stroke="#C9CED8" stroke-opacity="0.16" stroke-width="1.5"/>
+  <path d="M96 208 V74" fill="none" stroke="url(#goldB)" stroke-width="22" stroke-linecap="round"/>
+  <path d="M96 62 H148 L176 88 V120 L148 146 H96" fill="none" stroke="url(#emeraldB)" stroke-width="18" stroke-linejoin="miter"/>
+  <path d="M96 62 H148 L176 88" fill="none" stroke="#8BE7C2" stroke-opacity="0.55" stroke-width="6"/>
+  <g transform="translate(200 200)">
+    <path d="M0 -13 11 -4 6 11H-6L-11 -4Z" fill="#C9465E"/>
+    <path d="M0 -13 11 -4 0 1 -11 -4Z" fill="#E8738A"/>
+    <path d="M0 1 11 -4 6 11Z" fill="#A83348"/>
+    <path d="M0 1 -11 -4 -6 11Z" fill="#8E2233"/>
+  </g>
+</svg>
